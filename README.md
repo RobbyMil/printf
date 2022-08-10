@@ -2,7 +2,8 @@
 Authors: Robby Milambo, Sibusiso Shinga
 
 <img src="https://raw.githubusercontent.com/RobbyMil/printf/master/images.jpeg">
-> ### _printf()                                            
+
+### _printf()                                            
 > In this project, we recreated a mini-verison of the ```printf``` function found in                                 
 > the ```stdio.h``` library in the C programming language.
 This function allows                                      
